@@ -1,3 +1,5 @@
+[![Screenshot 1](https://github.com/kibexd/First-Repo/raw/main/Screenshot%20from%202024-02-29%2022-59-03.png)](https://github.com/kibexd/First-Repo/blob/main/Screenshot%20from%202024-02-29%2022-59-03.png)
+
 # Umithio Enhancers Consultants Website
 
 Welcome to the Umithio Enhancers Consultants Website repository! This project presents a professional website dedicated to Umithio Enhancers Consultants, highlighting their services, expertise, and commitment to agricultural development.
@@ -25,6 +27,8 @@ You can access the Umithio Enhancers Consultants Website by clicking [here](http
 - ![HTML Logo](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
 - ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) CSS
 - ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
+
+[![Coding GIF](https://github.com/kibexd/First-Repo/raw/main/coding.gif)](https://github.com/kibexd/First-Repo/blob/main/coding.gif)
 
 ## Usage
 
